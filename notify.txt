@@ -1,0 +1,32 @@
+=== PongHub Service Status Report ===
+Generated at: 2026-05-31 13:53:57
+
+🔴 UNAVAILABLE SERVICES:
+==================================================
+
+📋 Service: YuNaitang
+  • URL: https://mcs.yunaitang.top
+    Method: GET
+    Attempts: 0/2 successful
+    Check Time: 2026-05-31T13:53:46Z - 2026-05-31T13:53:56Z
+    Failure Details:
+      - SSL Certificate Error: dial tcp 121.196.158.6:443: connect: connection timed out
+      - StatusCode: N/A, Error: Get "https://mcs.yunaitang.top": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+      - StatusCode: N/A, Error: Get "https://mcs.yunaitang.top": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+
+
+📋 Service: Naitang
+  • URL: http://101.201.238.156:6185
+    Method: GET
+    Attempts: 0/2 successful
+    Check Time: 2026-05-31T13:53:56Z - 2026-05-31T13:53:57Z
+    Failure Details:
+      - StatusCode: N/A, Error: Get "http://101.201.238.156:6185": EOF
+      - StatusCode: N/A, Error: Get "http://101.201.238.156:6185": EOF
+
+
+📊 SUMMARY:
+==================================================
+Unavailable Endpoints: 2
+Certificate Issues: 0
+Total Issues: 2

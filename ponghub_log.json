@@ -1,0 +1,82 @@
+{
+  "Naitang": {
+    "service_history": [
+      {
+        "time": "2026-05-28T16:08:50Z",
+        "status": "none"
+      },
+      {
+        "time": "2026-05-29T15:46:24Z",
+        "status": "none"
+      },
+      {
+        "time": "2026-05-30T13:48:30Z",
+        "status": "none"
+      },
+      {
+        "time": "2026-05-31T13:53:56Z",
+        "status": "none"
+      }
+    ],
+    "endpoints": {
+      "http://101.201.238.156:6185": [
+        {
+          "time": "2026-05-28T16:08:50Z",
+          "status": "none"
+        },
+        {
+          "time": "2026-05-29T15:46:24Z",
+          "status": "none"
+        },
+        {
+          "time": "2026-05-30T13:48:30Z",
+          "status": "none"
+        },
+        {
+          "time": "2026-05-31T13:53:56Z",
+          "status": "none"
+        }
+      ]
+    }
+  },
+  "YuNaitang": {
+    "service_history": [
+      {
+        "time": "2026-05-28T16:06:26Z",
+        "status": "none"
+      },
+      {
+        "time": "2026-05-29T15:44:00Z",
+        "status": "none"
+      },
+      {
+        "time": "2026-05-30T13:46:06Z",
+        "status": "none"
+      },
+      {
+        "time": "2026-05-31T13:51:30Z",
+        "status": "none"
+      }
+    ],
+    "endpoints": {
+      "https://mcs.yunaitang.top": [
+        {
+          "time": "2026-05-28T16:08:40Z",
+          "status": "none"
+        },
+        {
+          "time": "2026-05-29T15:46:14Z",
+          "status": "none"
+        },
+        {
+          "time": "2026-05-30T13:48:20Z",
+          "status": "none"
+        },
+        {
+          "time": "2026-05-31T13:53:46Z",
+          "status": "none"
+        }
+      ]
+    }
+  }
+}
